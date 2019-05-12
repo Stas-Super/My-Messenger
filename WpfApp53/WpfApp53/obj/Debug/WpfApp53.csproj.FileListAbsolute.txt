@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\bin\Debug\WpfApp53.exe.config
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\bin\Debug\WpfApp53.exe
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\bin\Debug\WpfApp53.pdb
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\App.g.cs
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53_MarkupCompile.cache
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53_MarkupCompile.lref
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\MainWindow.baml
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.g.resources
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.Properties.Resources.resources
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.exe
+C:\Users\MSI\source\repos\WpfApp53\WpfApp53\obj\Debug\WpfApp53.pdb
